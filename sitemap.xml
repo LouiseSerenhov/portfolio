@@ -1,0 +1,27 @@
+<ul>
+		<li><a class="sitemap-heading" href="https://www.code-excursion.com/">Homepage</a></li>
+
+			<ul>
+			<li><a class="sitemap-heading" href="https://http://www.code-excursion.com/">About us</a></li>
+			<ul>
+				<li><a class="sitemap-heading" href="https://http://www.code-excursion.com/">Code Excursion History</a></li>
+				<li><a class="sitemap-heading" href="https://http://www.code-excursion.com/">Code Excursion Now</a></li>
+				<li><a class="sitemap-heading" href="https://http://www.code-excursion.com/">Code Excursion Future</a></li>
+			</ul>
+
+
+			<li><a class="sitemap-heading" href="https://www.code-excursion.com/">Social media</a></li>
+				<ul>
+					<li><a class="sitemap-heading" href="https://www.instagram.com/codeexcursion/">Code Excursion Instagram</a></li>
+					<li><a class="sitemap-heading" href="https://www.facebook.com/codeexcursion/">Code Excursion Facebook</a></li>
+					<li><a class="sitemap-heading" href="https://www.linkedin.com/company/code-excursion/">Code Excursion LinkedIn</a></li>
+				</ul>
+		
+			<li><a class="sitemap-heading" href="https://www.code-excursion.com/">Sponsors</a></li>
+				<ul>
+					<li><a class="sitemap-heading" href="https://www.knackeriet.com">Knackeriet</a></li>
+					<li><a class="sitemap-heading" href="https://www.misshosting.com">MissHosting</a></li>
+				</ul>
+			</ul>
+
+</ul>			
